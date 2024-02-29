@@ -1,0 +1,23 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 06 May 2023 14:58:30 at https://jytheme.com/ontech/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://jytheme.com/ontech/ -O1 "C:\Users\Luist\Dropbox\My PC (Luis-Tembe)\Downloads\MozbusinessConnection" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+14:59:45	Error: 	"Not Found" (404) at link https://jytheme.com/ontech/assets/css/owl.video.play.html (from https://jytheme.com/ontech/assets/css/owl.css)
+14:59:45	Error: 	"Not Found" (404) at link https://jytheme.com/ontech/assets/css/owl.video.play.png (from https://jytheme.com/ontech/assets/css/owl.css)
+14:59:45	Error: 	"Not Found" (404) at link https://jytheme.com/ontech/assets/images/about/about-4.jpg (from https://jytheme.com/ontech/assets/css/style.css)
+14:59:45	Error: 	"Not Found" (404) at link https://jytheme.com/ontech/assets/images/about/about-5.jpg (from https://jytheme.com/ontech/assets/css/style.css)
+14:59:45	Error: 	"Not Found" (404) at link https://jytheme.com/ontech/assets/images/app/myplate-background-1.jpg (from https://jytheme.com/ontech/assets/css/style.css)
+14:59:45	Error: 	"Not Found" (404) at link https://jytheme.com/ontech/assets/img/hero/hero-bg-1.jpg (from https://jytheme.com/ontech/assets/css/style.css)
+14:59:45	Error: 	"Not Found" (404) at link https://jytheme.com/ontech/assets/img/hero/hero-img-4.jpg (from https://jytheme.com/ontech/assets/css/style.css)
+14:59:45	Error: 	"Not Found" (404) at link https://jytheme.com/ontech/assets/img/hero/hero-img-3.jpg (from https://jytheme.com/ontech/assets/css/style.css)
+14:59:45	Error: 	"Not Found" (404) at link https://jytheme.com/ontech/assets/images/br-bg-1.jpg (from https://jytheme.com/ontech/assets/css/style.css)
+14:59:47	Error: 	"Not Found" (404) at link https://jytheme.com/ontech/assets/images/icons/services-dot.png (from https://jytheme.com/ontech/index-6.html)
+14:59:47	Error: 	"Not Found" (404) at link https://jytheme.com/ontech/blog-details-right-sidebar.html (from https://jytheme.com/ontech/blog-right-sidebar.html)
+14:59:47	Error: 	"Not Found" (404) at link https://jytheme.com/ontech/terms-condition.html (from https://jytheme.com/ontech/blog-details.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 17 seconds : 318 links scanned, 305 files written (40553189 bytes overall) [39492190 bytes received at 512885 bytes/sec], 1317592 bytes transferred using HTTP compression in 38 files, ratio 12%, 35.3 requests per connection
+(12 errors, 0 warnings, 0 messages)
